@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\ADRIA\AppData\Local\JetBrains\Rider2020.2\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\ADRIA\AppData\Local\JetBrains\Rider2020.2\resharper-host\Local\Transient\Rider\v202\SolutionCaches\_Tres en raya al cubo.-1028770311.00" t="ExcludeRecursive" />
+    <e p="J:\Escritorio_2\Unity\TresEnRaya\Tres en raya al cubo" t="IncludeRecursive">
+      <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
+      <e p="Assets" t="Include">
+        <e p="_Scripts" t="Include">
+          <e p="CubeMap.cs" t="Include" />
+          <e p="CubeState.cs" t="Include" />
+          <e p="GameManager.cs" t="Include" />
+          <e p="LittleCubeProperties.cs" t="Include" />
+          <e p="PivotRotation.cs" t="Include" />
+          <e p="ReadCube.cs" t="Include" />
+          <e p="RotateRubikCube.cs" t="Include" />
+          <e p="SelectFace.cs" t="Include" />
+          <e p="SelectLittleCube.cs" t="Include" />
+        </e>
+      </e>
+      <e p="obj" t="ExcludeRecursive" />
+      <e p="Packages" t="ExcludeRecursive" />
+      <e p="Temp\bin" t="ExcludeRecursive" />
+      <e p="Tres en raya al cubo.sln" t="IncludeFlat" />
+    </e>
+  </component>
+</project>
